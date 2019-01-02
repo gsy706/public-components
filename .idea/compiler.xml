@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="alipay" />
+        <module name="commons" />
+        <module name="couchbase" />
+        <module name="db" />
+        <module name="exceptions" />
+        <module name="fentity" />
+        <module name="oss" />
+        <module name="push" />
+        <module name="sms" />
+        <module name="weixin" />
+        <module name="zookeeper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="alipay" target="1.8" />
+      <module name="commons" target="1.8" />
+      <module name="components" target="1.8" />
+      <module name="couchbase" target="1.8" />
+      <module name="db" target="1.8" />
+      <module name="exceptions" target="1.8" />
+      <module name="fentity" target="1.8" />
+      <module name="oss" target="1.8" />
+      <module name="push" target="1.8" />
+      <module name="sms" target="1.8" />
+      <module name="weixin" target="1.8" />
+      <module name="zookeeper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
